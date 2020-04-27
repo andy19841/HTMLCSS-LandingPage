@@ -15,7 +15,8 @@ section {display:flex;}
 .align-center {align-items: center;}
 .center {justify-content: center;}
 .space-between {justify-content:space-between;}
-.btn {padding: 6px 12px; line-height: 1.4;border-radius:3px;}
+.btn {padding: 6px 12px; line-height: 1.4;border-radius:3px;
+    border:0;cursor:pointer;}
 .btn:hover {border:none;}
 .btn-default {color: white;background-color: #faa541;}
 .btn-primary {color: white;background-color: #364147;}
